@@ -12,7 +12,7 @@ const HeroText = () => {
           </h1>
           <p className="text-xl md:text-3xl lg:text-4xl font-bold">Vision Needs Liquidity</p>
           <p className="text-lg font-[500] px-10 lg:px-40">Your first money in is one thing. But so are your first hires, your first product and your first customers. We’ve helped Notion, Roblox, Uber, Square, Verkada, Together and 500 others tackle these firsts and more.</p>
-          <div className="flex justify-center text-2xl md:text-4xl"><BsChevronDown /></div>
+          <div className="flex justify-center text-3xl md:text-5xl animate-bounce"><BsChevronDown /></div>
         </div>
     </>
   )

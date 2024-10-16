@@ -8,7 +8,7 @@ module.exports = {
         customBlack: '#1b1917',
         customPurple: '#7E60BF',
         bgDarkPrime: '#000000',
-        highlight: 'var(--highlight-color, #008f11)',
+        highlight: 'var(--highlight-color, #49ebee)',
       },
       invert: {
         25: '0.25',
